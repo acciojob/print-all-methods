@@ -13,5 +13,4 @@ alert(allMethods());
 
 ## Acceptance Criteria
 
-- When the allMethods() function is called, all the methods of the Math object should be printed to the console.
 - The output should be a comma-separated list of method names.
